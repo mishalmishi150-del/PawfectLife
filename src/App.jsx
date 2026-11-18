@@ -124,6 +124,10 @@ function App() {
     ogDescription.setAttribute('content', description)
   }, [location.pathname])
 
+    useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [location.pathname])
+
   return (
     <>
       <Header search={search} setSearch={setSearch} />

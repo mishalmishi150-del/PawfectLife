@@ -1,6 +1,5 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url><loc>https://pawfect-life.vercel.app/</loc></url>
   <url><loc>https://pawfect-life.vercel.app/about</loc></url>
   <url><loc>https://pawfect-life.vercel.app/categories</loc></url>
@@ -13,7 +12,6 @@
   <url><loc>https://pawfect-life.vercel.app/article/pet-grooming</loc></url>
   <url><loc>https://pawfect-life.vercel.app/article/daily-pet-care</loc></url>
   <url><loc>https://pawfect-life.vercel.app/article/pet-nutrition</loc></url>
-  <url><loc>https://pawfect-life.vercel.app/article/pet-health</loc></url>
   <url><loc>https://pawfect-life.vercel.app/article/rabbit-care</loc></url>
-
+  <url><loc>https://pawfect-life.vercel.app/article/pet-health</loc></url>
 </urlset>
